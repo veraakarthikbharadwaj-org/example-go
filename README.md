@@ -1,4 +1,4 @@
-# [:] Example Go project using Dep.
+# [:] Example Go project using Dep
 
 An example Go project using Golang's Dep to demonstrate [SourceClear](https://www.sourceclear.com) scans.
 
